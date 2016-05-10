@@ -6,7 +6,7 @@
 favicon: /favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Hexo, NexT"
+keywords: "mylxiaoyi@notes"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -57,7 +57,7 @@ menu_icons:
 # ---------------------------------------------------------------
 
 # Schemes
-#scheme: Mist
+scheme: Mist
 
 
 
@@ -96,8 +96,10 @@ social_icons:
 
 
 # Social links
-# social:
-  #GitHub:
+social:
+  GitHub: https://github.com/mylxiaoyi
+  Twitter: https://twitter.com/mylxiaoyi
+  Weibo: https://weibo.com/u/2350724865
   #Others:
 
 
@@ -143,7 +145,7 @@ scroll_to_more: true
 
 # Automatically Excerpt
 auto_excerpt:
-  enable: false
+  enable: true
   length: 150
 
 # Use Lato font
@@ -166,7 +168,7 @@ mathjax:
 #baidu_analytics:
 
 # Duoshuo ShortName
-#duoshuo_shortname:
+duoshuo_shortname: hexo-github
 
 # Disqus
 #disqus_shortname:
